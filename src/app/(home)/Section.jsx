@@ -12,7 +12,7 @@ const Section = () => {
                     <Image width={500} height={723} src="https://img.freepik.com/free-photo/green-broccoli-levitating-white-background_485709-79.jpg?size=626&ext=jpg&ga=GA1.1.928138083.1680619194&semt=ais" alt="" />
                 </div>
                 <div className='bg-white'>
-                    <h4 className='text-center text-sm font-normal mt-5 text-green-600'>Who we are</h4>
+                    <h4 className='text-center text-sm font-bold mt-5 text-green-600'>Who we are</h4>
                     <h1 className='text-center text-5xl text-black font-extrabold mb-3'>Prioritize Nutrition for Optimal Health</h1>
                     <div className='flex gap-2'>
                         <div className="flex items-center mb-3">
