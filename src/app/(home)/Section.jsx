@@ -34,6 +34,15 @@ const Section = () => {
                     <Image width={500} height={723} src="https://img.freepik.com/free-photo/fresh-fruits-levitate-white-background_485709-69.jpg?size=626&ext=jpg&ga=GA1.2.928138083.1680619194&semt=ais" alt="" />
                 </div>
             </div>
+            <style>
+                {`
+                  @media (max-width: 768px) {
+                    .carousel {
+                      flex-direction: column;
+                    }
+                  }
+                `}
+            </style>
         </div>
     );
 };

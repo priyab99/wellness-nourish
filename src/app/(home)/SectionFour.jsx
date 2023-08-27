@@ -23,7 +23,7 @@ const SectionFour = () => {
                 className="mySwiper"
             >
                  <SwiperSlide className="swiper-slide"> {/* Added className */}
-                    <div className="relative h-[600px]"> {/* Adjusted height */}
+                    <div className="relative h-[500px]"> {/* Adjusted height */}
                         <Image
                             layout="fill"
                             objectFit="cover"
@@ -34,7 +34,7 @@ const SectionFour = () => {
                     <h3 className="text-4xl uppercase text-center absolute bottom-10 left-0 right-0 text-black">Dr. Elsa</h3>
                 </SwiperSlide>
                 <SwiperSlide className="swiper-slide"> {/* Added className */}
-                    <div className="relative h-[600px]"> {/* Adjusted height */}
+                    <div className="relative h-[500px]"> {/* Adjusted height */}
                         <Image
                             layout="fill"
                             objectFit="cover"
@@ -45,7 +45,7 @@ const SectionFour = () => {
                     <h3 className="text-4xl uppercase text-center absolute bottom-10 left-0 right-0 text-black">Dr. Veronica</h3>
                 </SwiperSlide>
                 <SwiperSlide className="swiper-slide"> {/* Added className */}
-                    <div className="relative h-[600px]"> {/* Adjusted height */}
+                    <div className="relative h-[500px]"> {/* Adjusted height */}
                         <Image
                             layout="fill"
                             objectFit="cover"
@@ -56,7 +56,7 @@ const SectionFour = () => {
                     <h3 className="text-4xl uppercase text-center absolute bottom-10 left-0 right-0 text-black">Dr. Scarllet</h3>
                 </SwiperSlide>
                 <SwiperSlide className="swiper-slide"> {/* Added className */}
-                    <div className="relative h-[600px]"> {/* Adjusted height */}
+                    <div className="relative h-[500px]"> {/* Adjusted height */}
                         <Image
                             layout="fill"
                             objectFit="cover"
@@ -67,7 +67,7 @@ const SectionFour = () => {
                     <h3 className="text-4xl uppercase text-center absolute bottom-10 left-0 right-0 text-black">Dr. Anna Joy</h3>
                 </SwiperSlide>
                 <SwiperSlide className="swiper-slide"> {/* Added className */}
-                    <div className="relative h-[600px]"> {/* Adjusted height */}
+                    <div className="relative h-[500px]"> {/* Adjusted height */}
                         <Image
                             layout="fill"
                             objectFit="cover"
@@ -78,7 +78,7 @@ const SectionFour = () => {
                     <h3 className="text-4xl uppercase text-center absolute bottom-10 left-0 right-0 text-black">Dr. Wanda Winston</h3>
                 </SwiperSlide>
                 <SwiperSlide className="swiper-slide"> {/* Added className */}
-                    <div className="relative h-[600px]"> {/* Adjusted height */}
+                    <div className="relative h-[500px]"> {/* Adjusted height */}
                         <Image
                             layout="fill"
                             objectFit="cover"
@@ -89,7 +89,7 @@ const SectionFour = () => {
                     <h3 className="text-4xl uppercase text-center absolute bottom-10 left-0 right-0 text-black">Dr. Veronica</h3>
                 </SwiperSlide>
                 <SwiperSlide className="swiper-slide"> {/* Added className */}
-                    <div className="relative h-[600px]"> {/* Adjusted height */}
+                    <div className="relative h-[500px]"> {/* Adjusted height */}
                         <Image
                             layout="fill"
                             objectFit="cover"
@@ -102,6 +102,7 @@ const SectionFour = () => {
                
 
             </Swiper>
+            
         </div>
     );
 };
